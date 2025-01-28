@@ -20,5 +20,3 @@ Wear is defined as "damage to a solid surface, usually involving progressive los
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Ayush Gupta  | Student | Mechanical Engineering |REC Banda| 2107340130014@recbanda.ac.in
-
